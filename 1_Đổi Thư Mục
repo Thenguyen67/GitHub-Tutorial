@@ -14,3 +14,13 @@ My Computer@DESKTOP-VKMPMVI MINGW64 ~/Desktop/Cplus-Programming (main)
 
 
 - Mẹo : ấn Tab sẽ hiện từ gợi ý : cd Cp + Tab = cd Cplus-Programming/
+
+- Lệnh dir hoặc ls : Hiển thị danh sách tập tin/thư mục bên trong thư mục 
+Ví dụ :
+My Computer@DESKTOP-VKMPMVI MINGW64 ~/Desktop/Cplus-Programming (main)
+$ dir
+28Tech                 Bai12_SoNguyenTo_5.cpp  README.md  helloworld.cpp
+Bai11_Fibonacci_5.cpp  BaiTapLinhTinh          VeHinh
+
+
+- Lệnh " mkdir " : Tạo ra một thư mục mới 
