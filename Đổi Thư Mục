@@ -1,0 +1,16 @@
+- Lệnh " cd " hay " cd .. " dùng dể đổi vị trí thư mục . 
+- Ví dụ : 
+My Computer@DESKTOP-VKMPMVI MINGW64 ~/Desktop/Cplus-Programming (main)
+$ cd .. 
+My Computer@DESKTOP-VKMPMVI MINGW64 ~/Desktop (main)
+
+
+- Muốn quay lại thì ấn " cd <Tên thư muc >
+Ví dụ muốn quay về Cplus-Programming thì có thể ghi " cd Cplus-Programming/ " 
+
+My Computer@DESKTOP-VKMPMVI MINGW64 ~/Desktop (main)
+cd Cplus-Programming/
+My Computer@DESKTOP-VKMPMVI MINGW64 ~/Desktop/Cplus-Programming (main)
+
+
+- Mẹo : ấn Tab sẽ hiện từ gợi ý : cd Cp + Tab = cd Cplus-Programming/
